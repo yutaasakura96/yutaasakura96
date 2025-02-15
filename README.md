@@ -2,13 +2,14 @@
 <h3 align="center">A Fullstack Web Developer from Kawasaki, Japan</h3>
 
 ## About Me
-- 🚀 Web Developer | HTML | CSS | JavaScript | JS Frameworks | Ruby | Ruby On Rails
-- 🌱 Currently immersed in the world of HTML, CSS, Ruby, Ruby on rails, JavaScript, and exploring various JavaScript frameworks.
-- 💻 The journey of becoming a web developer is my passion. I find immense satisfaction in crafting meaningful projects from scratch and witnessing their impact on others. Developing web apps and applications to bring ideas to life fuels my creativity, and the continuous learning journey is what keeps me motivated.
+- 🚀 Full-stack Web Developer | React | Java | Springboot | Tailwind | Docker | AWS
+- 🌱 As a Full Stack Web Developer, I thrive at the intersection of technology, creativity, and business impact. With a proven track record in designing and delivering scalable, user-centric web applications, I excel in both front-end and back-end development using cutting-edge technologies such as JavaScript, React.js, Java, Spring Boot and SQL. What sets me apart is my ability to transform complex challenges into custom, optimized solutions. Whether analyzing client pain points or collaborating with cross-functional teams, I focus on delivering secure, accessible, and responsive systems that drive business success. With a deep understanding of Agile methodologies and the software development lifecycle (SDLC), I ensure projects are not just completed—but exceed expectations.
+  
+- 💻 My commitment to continuous learning fuels my expertise in problem-solving, system development, and web performance optimization. I am passionate about staying ahead of industry trends and leveraging innovation to create solutions that truly matter. Let's connect if you're looking for a dedicated professional who is eager to deliver impactful, business-focused results while fostering collaboration and excellence across all aspects of web development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/yutaasakura96](https://github.com/yutaasakura96)
 
-- 💬 Ask me about **Javascript, Ruby, Ruby on Rails,**
+- 💬 Ask me about **Javascript, React , Java, Springboot, AWS, Docker**
 
 - 📫 How to reach me **yuta.asakura.se@gmail.com**
 
