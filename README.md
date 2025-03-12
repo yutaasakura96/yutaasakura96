@@ -23,9 +23,31 @@
 <a href="https://instagram.com/https://www.instagram.com/yutanasia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yutanasia/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,js,ts,react,next,vue,nuxt,ruby,rails,java,spring,postgres,mysql,docker,aws,vercel,netlify,heroku,npm,yarn,vite,vitest,pinia,git,github,vscode,idea,postman)](https://skillicons.dev)
+### **Frontend Development**
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,next,vue,nuxt,bootstrap,tailwind)](https://skillicons.dev)
+
+### **Backend Development**
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,java,spring,maven,gradle)](https://skillicons.dev)
+
+### **Databases & Cloud Services**
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,aws)](https://skillicons.dev)
+
+### **DevOps & Deployment**
+[![My Skills](https://skillicons.dev/icons?i=docker,vercel,netlify,heroku)](https://skillicons.dev)
+
+### **Package Managers & Build Tools**
+[![My Skills](https://skillicons.dev/icons?i=npm,yarn,vite)](https://skillicons.dev)
+
+### **Testing & State Management**
+[![My Skills](https://skillicons.dev/icons?i=vitest,pinia)](https://skillicons.dev)
+
+### **Version Control & CI/CD**
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev)
+
+### **IDEs & Development Tools**
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yutaasakura96&show_icons=true&locale=en&layout=compact" alt="yutaasakura96" /></p>
 
