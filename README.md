@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,js,ts,react,next,vue,nuxt,ruby,rails,java,spring,postgres,docker,vercel,netlify,heroku,npm,vite,vitest,pinia,git,github,vscode,idea,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,js,ts,react,next,vue,nuxt,ruby,rails,java,spring,postgres,mysql,docker,aws,vercel,netlify,heroku,npm,yarn,vite,vitest,pinia,git,github,vscode,idea,postman)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yutaasakura96&show_icons=true&locale=en&layout=compact" alt="yutaasakura96" /></p>
 
