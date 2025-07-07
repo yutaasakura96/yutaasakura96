@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer from Kawasaki, Japan</h3>
 
 ## About Me
-- 🚀 Software Engineer | Cloud Native Full-Stack Web Development | 3x AWS Certified (SAA-C03, AIF-C01, CLF-C02)
+- 🚀 Software Engineer | Cloud Native Full-Stack Web Development | 4x AWS Certified (DVA-C02, SAA-C03, AIF-C01, CLF-C02)
 - 🌱 As a Software Engineer, I thrive at the intersection of technology, creativity, and business impact. With a proven track record in designing and delivering scalable, user-centric web applications, I excel in both front-end and back-end development using cutting-edge technologies such as JavaScript, React.js, Java, Spring Boot and SQL. What sets me apart is my ability to transform complex challenges into custom, optimized solutions. Whether analyzing client pain points or collaborating with cross-functional teams, I focus on delivering secure, accessible, and responsive systems that drive business success. With a deep understanding of Agile methodologies, software development lifecycle (SDLC) and object oriented programming (OOP). I ensure projects are not just completed—but exceed expectations.
   
 - 💻 My commitment to continuous learning fuels my expertise in problem-solving, system development, and web performance optimization. I am passionate about staying ahead of industry trends and leveraging innovation to create solutions that truly matter. Let's connect if you're looking for a dedicated professional who is eager to deliver impactful, business-focused results while fostering collaboration and excellence across all aspects of web development.
